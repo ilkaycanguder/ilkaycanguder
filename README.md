@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate .NET developer from Türkiye<br>
+As a software developer and an aspiring engineer, I work on C#, .NET, and MSSQL. I develop full-stack projects using ASP.NET.<br>
 
 
 ## 🌐 Socials:
