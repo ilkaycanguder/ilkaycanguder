@@ -5,11 +5,22 @@
 
 ## 💫 About Me  
 
-- 🎓 Newly graduated **Computer Engineer** with a focus on **.NET ecosystem**  
-- 💻 Building **full-stack applications** with **.NET Core, ASP.NET MVC, React.js, PostgreSQL**  
-- ⚡ Experienced in **real-time systems, RESTful APIs, microservices, and AI integrations**  
-- 🚀 Passionate about **clean architecture, scalable solutions, and modern software practices**  
-- 🌱 Constantly improving in **backend development** while delivering **user-oriented applications**  
+- 🎓 Newly graduated **Computer Engineer** with a strong focus on the **.NET ecosystem**  
+- 💻 Building **full-stack applications** using **.NET Core, ASP.NET MVC, React.js, and PostgreSQL**  
+- ⚡ Experienced in **RESTful APIs, real-time systems, client–server architectures, and backend-driven applications**  
+- 🤖 Currently expanding my skill set in **AI-powered software development**  
+- 🚀 Passionate about **clean architecture, scalable solutions, and writing maintainable code**  
+- 🌱 Continuously improving my **backend expertise** while delivering **user-oriented applications**
+
+---
+
+## 🎓 Artificial Intelligence & Technology Academy  
+
+- 📚 Enrolled in an **8-month Artificial Intelligence and Technology Academy program**  
+- 🐍 Receiving hands-on training in **Python**  
+- 🧠 Learning **Large Language Models (LLMs)** and **Generative AI services**  
+- 🔗 Working with **multi-step agent architectures** and AI-driven workflows  
+- ⚙️ Focusing on integrating **AI capabilities into modern software systems**
 
 ---
 
@@ -58,10 +69,10 @@
 
 ## 🚀 Current Goals  
 
-- 📌 Master **.NET Core backend development** with clean architecture & microservices  
-- 🌍 Enhance **frontend skills** using React.js & Next.js  
-- ⚡ Deepen knowledge in **cloud solutions, Docker, and scalable APIs**  
-- 🤖 Explore **AI-powered integrations** for real-world applications  
+- 📌 Strengthen **.NET Core backend development** with clean architecture and scalable design  
+- 🌍 Advance **frontend skills** using React.js and Next.js  
+- ⚡ Improve knowledge of **Docker, APIs, and modern software workflows**  
+- 🤖 Build **AI-powered features** and integrate LLM-based solutions into real-world applications  
 
 ---
 
