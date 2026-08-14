@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-- 🎓 Newly graduated **Computer Engineer** with a strong focus on the **.NET ecosystem**
+- 🎓 **Computer Engineer, graduated in 2025**, with a strong focus on the **.NET ecosystem**
 - 💻 Building **full-stack applications** using **.NET Core, ASP.NET MVC, React.js, and PostgreSQL**
 - ⚡ Experienced in **RESTful APIs, real-time systems, client-server architectures, and backend-driven applications**
 - 🤖 Experienced in **AI-powered software development, LLMs, and Generative AI**
